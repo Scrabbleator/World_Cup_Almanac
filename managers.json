@@ -1,0 +1,47 @@
+[
+  {
+    "name": "Pep Guardiola",
+    "style": "Positional play, high possession, structured pressing.",
+    "favourite_formations": [
+      "4-3-3",
+      "3-2-5"
+    ],
+    "kid_friendly_summary": "Pep wants his team to control the game like chess, always moving into clever spaces and keeping the ball."
+  },
+  {
+    "name": "Jürgen Klopp",
+    "style": "High pressing, quick transitions, vertical attacking.",
+    "favourite_formations": [
+      "4-3-3",
+      "4-2-3-1"
+    ],
+    "kid_friendly_summary": "Klopp’s teams run like crazy, win the ball back fast, and attack the goal at full speed."
+  },
+  {
+    "name": "Carlo Ancelotti",
+    "style": "Calm, adaptable, uses players in their favourite roles.",
+    "favourite_formations": [
+      "4-3-3",
+      "4-4-2"
+    ],
+    "kid_friendly_summary": "Ancelotti is like a calm football uncle who lets stars do what they’re best at while keeping the team balanced."
+  },
+  {
+    "name": "Franz Beckenbauer",
+    "style": "Elegant build-up from the back, sweeper tradition.",
+    "favourite_formations": [
+      "3-5-2",
+      "4-3-3"
+    ],
+    "kid_friendly_summary": "Beckenbauer helped invent the idea of a defender who doesn’t just clear the ball, but starts attacks too."
+  },
+  {
+    "name": "Didier Deschamps",
+    "style": "Solid defence, powerful counterattacks, strong team spirit.",
+    "favourite_formations": [
+      "4-2-3-1",
+      "4-3-3"
+    ],
+    "kid_friendly_summary": "Deschamps builds teams that are hard to break down and lightning fast when they attack."
+  }
+]

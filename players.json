@@ -1,0 +1,90 @@
+[
+  {
+    "name": "Gordon Banks",
+    "position": "GK"
+  },
+  {
+    "name": "Manuel Neuer",
+    "position": "GK"
+  },
+  {
+    "name": "Cafu",
+    "position": "RB"
+  },
+  {
+    "name": "Philipp Lahm",
+    "position": "RB"
+  },
+  {
+    "name": "Bobby Moore",
+    "position": "CB"
+  },
+  {
+    "name": "Franz Beckenbauer",
+    "position": "CB"
+  },
+  {
+    "name": "Paolo Maldini",
+    "position": "CB"
+  },
+  {
+    "name": "Sergio Ramos",
+    "position": "CB"
+  },
+  {
+    "name": "Ashley Cole",
+    "position": "LB"
+  },
+  {
+    "name": "Roberto Carlos",
+    "position": "LB"
+  },
+  {
+    "name": "Xavi",
+    "position": "CM"
+  },
+  {
+    "name": "Andrés Iniesta",
+    "position": "CM"
+  },
+  {
+    "name": "Lothar Matthäus",
+    "position": "CM"
+  },
+  {
+    "name": "Bobby Charlton",
+    "position": "CM"
+  },
+  {
+    "name": "Zinedine Zidane",
+    "position": "CM"
+  },
+  {
+    "name": "Diego Maradona",
+    "position": "FW"
+  },
+  {
+    "name": "Pelé",
+    "position": "FW"
+  },
+  {
+    "name": "Eusébio",
+    "position": "FW"
+  },
+  {
+    "name": "Ronaldo Nazário",
+    "position": "FW"
+  },
+  {
+    "name": "Lionel Messi",
+    "position": "FW"
+  },
+  {
+    "name": "Kylian Mbappé",
+    "position": "FW"
+  },
+  {
+    "name": "Gerd Müller",
+    "position": "FW"
+  }
+]

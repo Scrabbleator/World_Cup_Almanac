@@ -1,0 +1,178 @@
+[
+  {
+    "name": "Estadio Nacional",
+    "city": "Santiago",
+    "country": "Chile",
+    "world_cup_year": 1962,
+    "capacity": 48300,
+    "built": "1938",
+    "club_use": "Hosts major Chilean matches and events.",
+    "legacy": "Still used today for big games and concerts.",
+    "fun_fact": "It hosted the 1962 World Cup final where Brazil defended their title."
+  },
+  {
+    "name": "Wembley Stadium (old)",
+    "city": "London",
+    "country": "England",
+    "world_cup_year": 1966,
+    "capacity": 98000,
+    "built": "1923",
+    "club_use": "Demolished and replaced by the new Wembley in the 2000s.",
+    "legacy": "The twin towers became a symbol of English football history.",
+    "fun_fact": "England lifted their first and only World Cup here in 1966."
+  },
+  {
+    "name": "Estadio Azteca",
+    "city": "Mexico City",
+    "country": "Mexico",
+    "world_cup_year": 1970,
+    "capacity": 87000,
+    "built": "1966",
+    "club_use": "Home to Club América and Mexico’s national team.",
+    "legacy": "One of the few stadiums to host two World Cup finals (1970 and 1986).",
+    "fun_fact": "Pelé and Maradona both created history on this pitch in different tournaments."
+  },
+  {
+    "name": "Olympiastadion",
+    "city": "Munich",
+    "country": "West Germany",
+    "world_cup_year": 1974,
+    "capacity": 69000,
+    "built": "1972",
+    "club_use": "Former home of Bayern Munich, now used for events.",
+    "legacy": "Its sweeping roof design became a famous architectural landmark.",
+    "fun_fact": "West Germany beat the Netherlands here to win the 1974 World Cup."
+  },
+  {
+    "name": "Estadio Monumental",
+    "city": "Buenos Aires",
+    "country": "Argentina",
+    "world_cup_year": 1978,
+    "capacity": 70000,
+    "built": "1938",
+    "club_use": "Home of River Plate.",
+    "legacy": "Regularly hosts Argentina’s biggest home matches.",
+    "fun_fact": "The stands shook with noise when Argentina won the final here."
+  },
+  {
+    "name": "Santiago Bernabéu",
+    "city": "Madrid",
+    "country": "Spain",
+    "world_cup_year": 1982,
+    "capacity": 81000,
+    "built": "1947",
+    "club_use": "Home of Real Madrid.",
+    "legacy": "Continues to be one of the most famous stadiums in the world.",
+    "fun_fact": "Italy beat West Germany 3–1 here to lift their third World Cup."
+  },
+  {
+    "name": "Estadio Azteca",
+    "city": "Mexico City",
+    "country": "Mexico",
+    "world_cup_year": 1986,
+    "capacity": 87000,
+    "built": "1966",
+    "club_use": "Home to Club América and Mexico’s national team.",
+    "legacy": "Hosted both Maradona’s 'Hand of God' and 'Goal of the Century' in the same match.",
+    "fun_fact": "It remains one of the loudest and most intimidating stadiums in the world."
+  },
+  {
+    "name": "Stadio Olimpico",
+    "city": "Rome",
+    "country": "Italy",
+    "world_cup_year": 1990,
+    "capacity": 70000,
+    "built": "1953",
+    "club_use": "Home to Roma and Lazio.",
+    "legacy": "Has hosted World Cups, European finals and Olympic events.",
+    "fun_fact": "West Germany beat Argentina here in a tense 1–0 final."
+  },
+  {
+    "name": "Rose Bowl",
+    "city": "Pasadena",
+    "country": "United States",
+    "world_cup_year": 1994,
+    "capacity": 94000,
+    "built": "1922",
+    "club_use": "Used mainly for American football and events.",
+    "legacy": "Still one of the largest stadiums in the United States.",
+    "fun_fact": "The 1994 World Cup final went to penalties under the California sun."
+  },
+  {
+    "name": "Stade de France",
+    "city": "Saint-Denis (Paris)",
+    "country": "France",
+    "world_cup_year": 1998,
+    "capacity": 80000,
+    "built": "1998",
+    "club_use": "France’s main national stadium.",
+    "legacy": "Has hosted rugby, athletics and football finals.",
+    "fun_fact": "France lifted their first World Cup here with a 3–0 win over Brazil."
+  },
+  {
+    "name": "International Stadium Yokohama",
+    "city": "Yokohama",
+    "country": "Japan",
+    "world_cup_year": 2002,
+    "capacity": 72000,
+    "built": "1998",
+    "club_use": "Used for football and major events.",
+    "legacy": "Hosts the Club World Cup and other international matches.",
+    "fun_fact": "Ronaldo scored twice here as Brazil beat Germany in the 2002 final."
+  },
+  {
+    "name": "Olympiastadion Berlin",
+    "city": "Berlin",
+    "country": "Germany",
+    "world_cup_year": 2006,
+    "capacity": 74000,
+    "built": "1936 (modernised)",
+    "club_use": "Home of Hertha BSC.",
+    "legacy": "A historic stadium modernised for 21st-century football.",
+    "fun_fact": "Zidane’s final match for France — and his famous headbutt — happened here."
+  },
+  {
+    "name": "Soccer City (FNB Stadium)",
+    "city": "Johannesburg",
+    "country": "South Africa",
+    "world_cup_year": 2010,
+    "capacity": 94736,
+    "built": "1989 (renovated 2009)",
+    "club_use": "Kaizer Chiefs and South Africa national team matches.",
+    "legacy": "Still hosts big games, concerts and national events.",
+    "fun_fact": "Its outside is designed to look like a traditional African calabash pot."
+  },
+  {
+    "name": "Maracanã",
+    "city": "Rio de Janeiro",
+    "country": "Brazil",
+    "world_cup_year": 2014,
+    "capacity": 78000,
+    "built": "1950 (renovated 2013)",
+    "club_use": "Used by Rio clubs and the Brazil national team.",
+    "legacy": "One of the most iconic football stadiums in the world.",
+    "fun_fact": "Has hosted two World Cup finals, in 1950 and 2014."
+  },
+  {
+    "name": "Luzhniki Stadium",
+    "city": "Moscow",
+    "country": "Russia",
+    "world_cup_year": 2018,
+    "capacity": 81000,
+    "built": "1956 (renovated 2017)",
+    "club_use": "Hosts major Russian and international matches.",
+    "legacy": "Modernised to become a multi-purpose sports arena.",
+    "fun_fact": "France beat Croatia 4–2 here in a rain-soaked, dramatic final."
+  },
+  {
+    "name": "Lusail Iconic Stadium",
+    "city": "Lusail",
+    "country": "Qatar",
+    "world_cup_year": 2022,
+    "capacity": 88966,
+    "built": "2021",
+    "club_use": "Planned to be partly repurposed for community use after the World Cup.",
+    "legacy": "Central to Qatar’s World Cup legacy plans with flexible seating.",
+    "fun_fact": "It hosted the unforgettable 3–3 final between Argentina and France."
+  }
+]
